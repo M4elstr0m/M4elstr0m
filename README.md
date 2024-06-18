@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Monero-grey?style=for-the-badge&logo=monero&logoColor=white" alt="Monero Badge"/>
+    <img src="https://img.shields.io/badge/Monero-grey?style=for-the-badge&logo=monero&logoColor=orange" alt="Monero Badge"/>
   </a>
 </div>
 
