@@ -5,13 +5,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://stackoverflow.com/users/22194956/m4elstr0m">
+  <a href="https://stackoverflow.com/users/22194956/m4elstr0m" target="_blank">
     <img src="https://img.shields.io/badge/Stackoverflow-lightgrey?style=for-the-badge&logo=stackoverflow&logoColor=carrot" alt="StackOverFlow Badge"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=p7YXXieghto">
+  <a href="https://www.youtube.com/watch?v=p7YXXieghto" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://raw.githubusercontent.com/M4elstr0m/M4elstr0m/main/41uwNeXDJAq6rU1s98txN4J56YTJj2NsKQtVp7LGDXH2PEtPpX1M2sdKoixYeJryenB2zzaT1W3aXXFbRDXHAMPWE8jUpyN.png">
+  <a href="https://raw.githubusercontent.com/M4elstr0m/M4elstr0m/main/41uwNeXDJAq6rU1s98txN4J56YTJj2NsKQtVp7LGDXH2PEtPpX1M2sdKoixYeJryenB2zzaT1W3aXXFbRDXHAMPWE8jUpyN.png" target="_blank">
     <img src="https://img.shields.io/badge/Monero-grey?style=for-the-badge&logo=monero&logoColor=carrot" alt="Monero Badge"/>
   </a>
 </div>
