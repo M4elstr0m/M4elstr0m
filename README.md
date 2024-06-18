@@ -5,14 +5,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://stackoverflow.com/users/22194956/m4elstr0m">
+    <img src="https://img.shields.io/badge/Stackoverflow-lightgrey?style=for-the-badge&logo=stackoverflow&logoColor=orange" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Monero-grey?style=for-the-badge&logo=monero&logoColor=orange" alt="Monero Badge"/>
+  <a href="monero:41uwNeXDJAq6rU1s98txN4J56YTJj2NsKQtVp7LGDXH2PEtPpX1M2sdKoixYeJryenB2zzaT1W3aXXFbRDXHAMPWE8jUpyN">
+    <img src="https://img.shields.io/badge/Monero-grey?style=for-the-badge&logo=monero&logoColor=carrot" alt="Monero Badge"/>
   </a>
 </div>
 
