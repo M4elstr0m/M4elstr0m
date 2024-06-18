@@ -8,7 +8,7 @@
   <a href="https://stackoverflow.com/users/22194956/m4elstr0m">
     <img src="https://img.shields.io/badge/Stackoverflow-lightgrey?style=for-the-badge&logo=stackoverflow&logoColor=carrot" alt="StackOverFlow Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/watch?v=p7YXXieghto">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://raw.githubusercontent.com/M4elstr0m/M4elstr0m/main/41uwNeXDJAq6rU1s98txN4J56YTJj2NsKQtVp7LGDXH2PEtPpX1M2sdKoixYeJryenB2zzaT1W3aXXFbRDXHAMPWE8jUpyN.png">
@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning Go
 - 👐 I’m able to collaborate on all kind of projects, from coding to cybersecurity
-- 💬 How to reach me: try using StackOverFlow
+- 💬 Don't hesitate to reach me: using <a href="https://github.com/M4elstr0m/M4elstr0m/discussions/1">GitHub</a>
 - 🔮 Fun fact: I've passed the Captcha, so I'm 100% human
 
 
