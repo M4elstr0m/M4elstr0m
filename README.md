@@ -5,8 +5,11 @@
 </div>
 
 <div id="badges" align="center">
+  <a href="https://raw.githubusercontent.com/M4elstr0m/M4elstr0m/main/3J3QW9RaatFjicwiBKZrWb5z4AjZrm3bvp.png" target="_blank">
+    <img src="https://img.shields.io/badge/Bitcoin-yellow?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Badge"/>
+  </a>
   <a href="https://stackoverflow.com/users/22194956/m4elstr0m" target="_blank">
-    <img src="https://img.shields.io/badge/Stackoverflow-darkcyan?style=for-the-badge&logo=stackoverflow&logoColor=carrot" alt="StackOverFlow Badge"/>
+    <img src="https://img.shields.io/badge/Stackoverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=carrot" alt="StackOverFlow Badge"/>
   </a>
   <a href="https://www.youtube.com/watch?v=p7YXXieghto" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
