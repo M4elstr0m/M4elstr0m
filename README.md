@@ -38,6 +38,8 @@
 <br>
 
 [![M4elstrom's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M4elstr0m&layout=compact&theme=vision-friendly-dark)]()
+[![M4elstrom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4elstr0m&show_icons=true&theme=vision-friendly-dark)]()
+
 <br><br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
