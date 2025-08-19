@@ -32,6 +32,11 @@
 
 <br><br>
 
+<div align="center"><img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif"></div>
+<div align="center"><b>This is Golang.</b></div>
+
+<br>
+
 - 🌱 I’m currently learning Python and Go
 - 👐 I’m able to collaborate on all kind of projects, from coding and game programming, to cybersecurity
 - 💬 Don't hesitate to reach me: using <a href="https://github.com/M4elstr0m/M4elstr0m/discussions/1">GitHub</a>
