@@ -51,6 +51,13 @@
 
 <br><br>
 <div>
+
+  <!--
+  ![Python](https://img.shields.io/badge/python-%23121011.svg?style=for-the-badge&logo=python)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Golang](https://img.shields.io/badge/go-%23121011.svg?style=for-the-badge&logo=go)
+  -->
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"  alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go"  alt="Go" width="40" height="40"/>&nbsp;
