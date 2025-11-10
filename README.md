@@ -46,7 +46,7 @@
 ## 🛠️ Languages and Tools :
 <br>
 
-[![M4elstrom's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M4elstr0m&show_icons=true&theme=vision-friendly-dar)]()
+[![M4elstrom's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M4elstr0m&show_icons=true&theme=vision-friendly-dark)]()
 [![M4elstrom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4elstr0m&show_icons=true&theme=vision-friendly-dark)]()
 
 <br><br>
