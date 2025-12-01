@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/badge/Bitcoin-yellow?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Badge"/>
   </a>
   -->
+
+  [![starline](https://starlines.qoo.monster/assets/M4elstr0m)](https://github.com/qoomon/starline)
+  
   <a href="https://stackoverflow.com/users/22194956/m4elstr0m" target="_blank">
     <img src="https://img.shields.io/badge/Stackoverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=carrot" alt="StackOverFlow Badge"/>
   </a>
