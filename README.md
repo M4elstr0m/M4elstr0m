@@ -40,7 +40,7 @@
 
 <br>
 
-- 🌱 I’m currently learning Python and Go
+- 🌱 I’m currently learning Rust and Go
 - 👐 I’m able to collaborate on all kind of projects, from coding and game programming, to cybersecurity
 - 💬 Don't hesitate to reach me: using <a href="https://github.com/M4elstr0m/M4elstr0m/discussions/1">GitHub</a>
 - 🔮 Fun fact: I've passed the Captcha, so I'm 100% human
