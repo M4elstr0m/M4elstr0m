@@ -15,7 +15,7 @@
   <a href="https://stackoverflow.com/users/22194956/m4elstr0m" target="_blank">
     <img src="https://img.shields.io/badge/Stackoverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=carrot" alt="StackOverFlow Badge"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=p7YXXieghto" target="_blank">
+  <a href="https://www.youtube.com/@m4elstr0m_dev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <!-- 
@@ -50,7 +50,7 @@
 <br><br>
 
 <div align="center"><img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif"></div>
-<div align="center"><b>This is Golang.</b></div>
+<div align="center"><b>By the power of Go!</b></div>
 
 <br>
 
