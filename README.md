@@ -1,4 +1,5 @@
-### Welcome on my profile ! ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.M4elstr0m&left_text=Visitors)
+# Welcome on my profile ! ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.M4elstr0m&left_text=Visitors)
+
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWowczl3em1vMWhvMHdnODFyZnd0MzZhZDdlanFhdGc0MjdyenJkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.webp" width="200"/>
 </div>
@@ -32,16 +33,12 @@
 </h1>
 
 <div align="center">
+
+[![Tools](https://img.shields.io/badge/SEE%20FULL%20TOOLS%20LIST%20🧰-EFEFEF?style=for-the-badge)](TOOLS.md)
   
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
-  [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
-  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-  [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-  [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-  [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
   
 </div>
 
@@ -52,17 +49,10 @@
 
 <br>
 
-- 🌱 I’m currently learning Rust and Go
-- 👐 I’m able to collaborate on all kind of projects, from coding and game programming, to cybersecurity
-- 💬 Don't hesitate to reach me: using <a href="https://github.com/M4elstr0m/M4elstr0m/discussions/1">GitHub</a>
-- 🔮 Fun fact: I've passed the Captcha, so I'm 100% human
+💬 Don't hesitate to reach me: using <a href="https://github.com/M4elstr0m/M4elstr0m/discussions/1">GitHub</a>
 
+🔮 Fun fact: I've passed the Captcha, so I'm 100% human
 
-## 🛠️ Languages and Tools :
-<br>
+<!-- [![M4elstrom's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M4elstr0m&show_icons=true&theme=vision-friendly-dark)]()
 
-[![M4elstrom's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M4elstr0m&show_icons=true&theme=vision-friendly-dark)]()
-
-[![M4elstrom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4elstr0m&show_icons=true&theme=vision-friendly-dark)]()
-
-<br><br>
+[![M4elstrom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4elstr0m&show_icons=true&theme=vision-friendly-dark)]() -->
