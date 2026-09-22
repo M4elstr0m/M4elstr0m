@@ -10,7 +10,6 @@ Let's sort this list by personal taste
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
@@ -24,6 +23,7 @@ Let's sort this list by personal taste
 
 ### Good old Bertha
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
@@ -44,6 +44,7 @@ Let's sort this list by personal taste
 
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff)
 ![Bevy](https://img.shields.io/badge/Bevy-232326?logo=Bevy&logoColor=FFF)
+![Ratatui](https://img.shields.io/badge/Ratatui-000000?logo=Ratatui&logoColor=FFF)
 
 ### Go :beaver:
 
@@ -66,10 +67,10 @@ Let's sort this list by personal taste
 
 ### Computer
 
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
-  ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 ## Documentation Systems
 
